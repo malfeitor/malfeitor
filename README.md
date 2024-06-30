@@ -23,12 +23,20 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+<h3 align="left">Important repositories:</h3>
+<ul align="left">
+  <li><a href="https://github.com/malfeitor/date-picker" target="_blank" rel="noreferrer">Date-Picker</a> - a React Date picker tool available with NPM</li>
+  <li><a href="https://github.com/malfeitor/table-viewer" target="_blank" rel="noreferrer">Table-Viewer</a> - a React Table component to display and sort data, available with NPM</li>
+  <li><a href="https://github.com/malfeitor/reading-list" target="_blank" rel="noreferrer">Reading-List</a> - a fun projet where you can select books, animated with framer motion</li>
+  <li><a href="https://github.com/malfeitor/Les-Petits-Plats" target="_blank" rel="noreferrer">Les Petits Plats</a> - a projet with pretty animations</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="40" height="40" alt="sass"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 
@@ -36,6 +44,7 @@ Here are some ideas to get you started:
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/d3/d3-logo/6d9c471aa852033501d00ca63fe73d9f8be82d1d/d3.svg" alt="d3" width="40" height="40" /></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://github.com/malfeitor/malfeitor/assets/8830707/9122a115-53e4-48a7-adc9-9b7db0c55a2b" alt="framer-motion" width="40" height="40" /></a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
