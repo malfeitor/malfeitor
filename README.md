@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/malfeitor/date-picker" target="_blank" rel="noreferrer">Date-Picker</a> - a React Date picker tool available with NPM</li>
   <li><a href="https://github.com/malfeitor/table-viewer" target="_blank" rel="noreferrer">Table-Viewer</a> - a React Table component to display and sort data, available with NPM</li>
   <li><a href="https://github.com/malfeitor/reading-list" target="_blank" rel="noreferrer">Reading-List</a> - a fun projet where you can select books, animated with framer motion</li>
-  <li><a href="[https://github.com/malfeitor/Les-Petits-Plats](https://github.com/malfeitor/ohmyfood)" target="_blank" rel="noreferrer">Oh My Food</a> - a projet with pretty animations</li>
+  <li><a href="https://github.com/malfeitor/ohmyfood" target="_blank" rel="noreferrer">Oh My Food</a> - a projet with pretty animations</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
