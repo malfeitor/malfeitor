@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning **Next.js**
 
-🔭 I’m currently working on [LANMaker](https://github.com/malfeitor/lanmaker)
+🔭 I’m currently working on [LANRumble](https://github.com/malfeitor/lanrumble-django)
 
 🧰 [My portfolio](https://malfeitor.github.io/portfolio/)
 
