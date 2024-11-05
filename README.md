@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Important repositories:</h3>
 <ul align="left">
+  <li><a href="https://github.com/malfeitor/lanrumble-django" target="_blank" rel="noreferrer">LANRumble</a> - a Django website who helps user select which game to play with his friends</li>
   <li><a href="https://github.com/malfeitor/date-picker" target="_blank" rel="noreferrer">Date-Picker</a> - a React Date picker tool available with NPM</li>
   <li><a href="https://github.com/malfeitor/table-viewer" target="_blank" rel="noreferrer">Table-Viewer</a> - a React Table component to display and sort data, available with NPM</li>
-  <li><a href="https://github.com/malfeitor/reading-list" target="_blank" rel="noreferrer">Reading-List</a> - a fun projet where you can select books, animated with framer motion</li>
-  <li><a href="https://github.com/malfeitor/ohmyfood" target="_blank" rel="noreferrer">Oh My Food</a> - a projet with pretty animations</li>
+  <li><a href="https://github.com/malfeitor/reading-list" target="_blank" rel="noreferrer">Reading-List</a> - a fun project where you can select books, animated with framer motion</li>
+  <li><a href="https://github.com/malfeitor/ohmyfood" target="_blank" rel="noreferrer">Oh My Food</a> - a project with pretty animations</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
